@@ -147,7 +147,7 @@ This project is part of my hands-on transition into AI/ML engineering. Key thing
 
 **Shruti Mishra** — transitioning into AI/ML engineering, building projects in LLMs, RAG, and applied NLP.
 
-Connect on [LinkedIn](www.linkedin.com/in/shruti-mishra-82b271107) · [GitHub](https://github.com/shruti-mishra)
+Connect on [LinkedIn](https://www.linkedin.com/in/shruti-mishra-82b271107) · [GitHub](https://github.com/shruti-mishra)
 
 ---
 
