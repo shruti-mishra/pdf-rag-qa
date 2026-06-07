@@ -3,9 +3,12 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_community.vectorstores import FAISS
-from dotenv import load_dotenv
 
-load_dotenv()
+
+import os
+import streamlit as st
+
+os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 
 
 def get_answer(vectorstore: FAISS, question: str) -> str:
